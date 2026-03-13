@@ -31,7 +31,7 @@ We trained the model on a **micro-dataset** to highlight differences in training
 
 ---
 
-## 🧠 Key Findings & Hallucination Analysis
+##  Key Findings & Hallucination Analysis
 
 ### Root Cause of Hallucinations: Domain Mismatch
 
@@ -50,7 +50,7 @@ Result:
 
 ---
 
-## ⚙️ How to Scale for Production
+## How to Scale for Production
 
 To mitigate hallucinations and improve domain adaptation:
 
