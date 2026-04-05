@@ -46,7 +46,7 @@ While full fine-tuning caused **catastrophic forgetting** and incoherent outputs
 Result:
 - Stable summaries
 - 99.8% fewer trainable parameters
-- Significantly faster training
+- Significantly faster training.
 
 ---
 
